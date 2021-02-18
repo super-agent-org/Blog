@@ -20,11 +20,15 @@ Lastly, Delaware works fast and they make it look easy. Fillings are quick to be
 # Why Stripe Atlas?
 
 We decided to go with Stripe Atlas because we were familiar with Stripe, and it seemed like the most straightforward solution. Looking back, I think that Clerky would have been the better choice. Still, the experience with Stripe Atlas was a positive one.
+
 We waited until January 2021 to avoid having to pay tax in 2020. We created the account in Stripe Atlas and paid the 500$ fee on January 7th. On the 8th, we received the filed Certificate of Incorporation.
 Creating the account was a very simple and painless process. I won't bore you with details.
+
 The next step was issuing the Stock Purchase Agreements (SPAs). This is where we would do things differently.
 If you have a simple setup where all Co-Founders will have the same vesting period (4-year vesting; 1-year cliff) and under 80% of equity, then Stripe Atlas works for you.
 We hadn't. So we had to get some lawyers involved to customize our SPAs.
+
 We contacted Lawbite (lawbite.co.uk) to draft the SPAs and the SAFE notes while they were at it. The guys at Lawbite were fantastic. Not only were they super clear, but they were also fast. Their platform makes the process very smooth despite the poor UX.
+
 We paid $500 for the Stripe Atlas application and $1,176 for the Lawyers.
 Clerky offers a lifetime package for $799. I can't be 100% sure that Clerky would have solved all our problems, but it seems more cost-effective while it would have also prevented us from using two different platforms.
